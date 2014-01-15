@@ -1,0 +1,41 @@
+html {
+	background: url(../img/html.png)
+}
+
+#global {
+	padding: 0 13px;
+	background: url(../img/global.png) center repeat-y
+}
+#header {
+	height: 320px
+}
+#footer {
+	background: url(../img/brownred.gif) repeat-x
+}
+
+#slideshow img {
+	display: none
+}
+#slideshow img.first {
+	display: block
+}
+
+#logo {
+	z-index: 10;
+	position: absolute;
+	top: 40px;
+	left: 25px;
+	border: 0;
+	padding: 8px 25px 7px 22px;
+	background: url(../img/backgroundLogo.png) transparent top left no-repeat
+}
+
+#logoAOC {
+	margin: 20px 15px
+}
+
+#logoBouteille {
+	position: absolute;
+	bottom: 75px;
+	right: 75px
+}

@@ -1,0 +1,39 @@
+#content cite {
+	line-height: 1.5em;
+	font-size: 1.1em;
+	margin: 0 10px;
+	padding: 0 10px 100px 10px
+}
+#content h2.palm {
+	margin: 2em 0 0 0
+}
+
+.quote {
+	position: relative;
+	bottom: -25px;
+	margin: 0 5px;
+	font-size: 4em;
+	color: #CCC
+}
+.endQuote {
+	position: relative;
+	top: 20px;
+	margin: 0 5px;
+	font-size: 4em;
+	color: #CCC
+}
+
+.reference {
+	width: 150px;
+	font-family: Georgia, "DejaVu Serif", Norasi, serif;
+	text-align: center;
+	font-size: 1.3em;
+	line-height: 1.1em; 
+	letter-spacing: -1px;
+	color: #999;
+	margin: 0px 100px 0 0
+}
+
+.hachette {
+	font-family: Verdana, Helvetica, Arial, sans-serif
+}

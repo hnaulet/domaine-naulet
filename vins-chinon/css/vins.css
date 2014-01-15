@@ -1,0 +1,17 @@
+.short {
+	width: 510px
+}
+
+.shortright {
+	padding-top: 20px;
+	width: 495px;
+	float: right
+}
+
+.thumb {
+	border: none 0;
+	margin: 20px;	
+	-moz-box-shadow: 0 0 2em #888;
+	-webkit-box-shadow: 0 0 2em #888;
+	box-shadow: 0 0 2em #888
+}

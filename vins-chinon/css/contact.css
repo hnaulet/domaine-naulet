@@ -1,0 +1,12 @@
+p.center {
+  text-align: cente
+}
+
+#map {
+	width: 600px;
+	margin: 50px auto;
+	height: 400px;
+	-moz-box-shadow: 0 0 2em #888;
+	-webkit-box-shadow: 0 0 2em #888;
+	box-shadow: 0 0 2em #888
+}

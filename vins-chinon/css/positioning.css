@@ -1,0 +1,39 @@
+html, body {
+	height: 100%;
+	margin: 0
+}
+#global {
+	min-height: 100%;
+	width: 954px;
+	margin: 0 auto;
+	position: relative
+}
+#footer {
+	position: absolute;
+	width: 954px;
+	bottom: 0
+}
+#center {
+	padding-bottom: 50px; 
+	overflow: auto;
+	background: url(../img/bgcenter.gif) repeat-x
+}
+#sidebar {
+	float: right;
+	width: 180px
+}
+#content {
+	float: left;
+	width: 720px;
+	margin: 15px
+}
+
+.left {
+	float: left
+}
+.right {
+	float: right
+}
+.clearer {
+	clear: both
+}

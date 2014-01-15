@@ -1,0 +1,9 @@
+#galerie img {
+	padding: 5px;
+	margin: 15px;
+	border: 1px solid #CCC
+}
+
+#galerie img:hover {
+	border-color: #931
+}
